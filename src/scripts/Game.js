@@ -55,7 +55,7 @@ function createGameCard(game) {
 // Create some example games
 const games = [
     new Game(
-        '../public/images/dark.jpg',
+        'public/images/dark.jpg',
         'Dark Echoes',
         ['Horror', 'Adventure'],
         299,
