@@ -62,49 +62,49 @@ const games = [
         'Explore a haunting world filled with psychological horror and mysterious puzzles. Navigate through dark corridors and uncover the truth behind the echoes of the past.'
     ),
     new Game(
-        '../public/images/stellar.jpg',
+        'public/images/stellar.jpg',
         'Stellar Conquest',
         ['Strategy', 'Sci-Fi'],
         499,
         'Command your fleet across the galaxy in this epic space strategy game. Build alliances, research advanced technologies, and conquer star systems in your quest for dominion.'
     ),
     new Game(
-        '../public/images/medival.jpg',
+        'public/images/medival.jpg',
         'Medieval Warriors',
         ['Action', 'RPG'],
         399,
         'Embark on an epic journey through a medieval realm. Master combat skills, forge legendary weapons, and become a legendary warrior in this action-packed RPG.'
     ),
     new Game(
-        '../public/images/race.jpg',
+        'public/images/race.jpg',
         'Racing Evolution',
         ['Racing'],
         249,
         'Experience high-octane racing action with stunning graphics and realistic physics. Compete in championships, customize your vehicles, and become the ultimate racing champion.'
     ),
     new Game(
-        '../public/images/pixel.jpg',
+        'public/images/pixel.jpg',
         'Pixel Dungeons',
         ['RPG', 'Indie'],
         199,
         'Dive into this charming retro-style dungeon crawler. Each playthrough is unique with procedurally generated levels, challenging monsters, and countless items to discover.'
     ),
     new Game(
-        '../public/images/city.jpg',
+        'public/images/city.jpg',
         'City Architect',
         ['Simulation'],
         349,
         'Design and build your dream city from the ground up. Manage resources, plan infrastructure, and watch your metropolis grow in this detailed city-building simulation.'
     ),
     new Game(
-        '../public/images/forest.jpg',
+        'public/images/forest.jpg',
         'Forest Survival',
         ['Survival', 'Adventure'],
         299,
         'Test your survival skills in a vast wilderness. Craft tools, build shelter, hunt for food, and uncover the secrets hidden within the mysterious forest.'
     ),
     new Game(
-        '../public/images/cyber.jpg',
+        'public/images/cyber.jpg',
         'Cyber Protocol',
         ['Action', 'Sci-Fi'],
         449,

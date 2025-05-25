@@ -30,7 +30,7 @@ function setupAccountButtons() {
 
     navbar.innerHTML = `
         <a class="w3-bar-item w3-large w3-padding-16">
-            <img src="../../public/images/sadGamesLogo.png" alt="GameStore" style="height: 28px;">
+            <img src="public/images/sadGamesLogo.png" alt="GameStore" style="height: 28px;">
         </a>
         <div class="w3-bar-item w3-right">
             Cart: <span id="cart-count">0</span>
