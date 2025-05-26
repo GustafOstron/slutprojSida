@@ -76,7 +76,7 @@ function setupRegister() {
 
         // Redirect after 2 seconds
         setTimeout(function() {
-            window.location.href = "index.html";
+            window.location.href = "../../index.html";
         }, 2000);
     })
 }
@@ -129,7 +129,7 @@ function setupLogin() {
         successMessage.textContent = "Login successful! Redirecting...";
 
         setTimeout(function() {
-            window.location.href = "index.html";
+            window.location.href = "../../index.html";
         }, 2000);
     })
 }

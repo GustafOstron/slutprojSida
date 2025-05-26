@@ -51,10 +51,10 @@ function setupAccountButtons() {
     } else {
         // User is not logged in - show login and signup buttons
         navbar.innerHTML += `
-            <a href="SignupPage.html" class="w3-bar-item w3-button w3-right w3-large w3-padding-16">
+            <a href="src/html/SignupPage.html" class="w3-bar-item w3-button w3-right w3-large w3-padding-16">
                 Sign up
             </a>
-            <a href="LoginPage.html" class="w3-bar-item w3-button w3-right w3-large w3-padding-16">
+            <a href="src/html/LoginPage.html" class="w3-bar-item w3-button w3-right w3-large w3-padding-16">
                 Login
             </a>
         `;
